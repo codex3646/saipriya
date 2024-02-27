@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  #logo{
+    background-image: url(Elegant\ Fancy\ Restaurant\ Logo\ _\ BrandCrowd\ Logo\ Maker\ _\ BrandCrowd\ -\ Google\ Chrome\ 26-02-2024\ 4.10.18\ PM.png);
+    height: 9vh;
+    width: 35vw;
+    background-size: cover;
+    margin-right: 1vw;
+  }
+  
+  nav{
+    height: 10vh;
+    background-color:black;
+   display: flex;
+   align-items: center;
+   width: 100%;
+   top: 0;
+
+    
+  
+  }
+  
+  .carousel-item{
+    background-size: cover;
+    height: 50vh;
+  }
+  
+ #navb p{
+  color: white;
+  font-size: 7vw;
+  font-weight: 600;
+ }
+ 
+  
+  #avd{
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+  }
+  
+  #cont{
+  height: 40vh;
+  width: 90vw;
+  background: wheat;
+  }
+ 
+
+ 
+
+  #imgs{
+    height: 50vh;
+   width: 97%;
+   margin-left: 1.5%;
+   box-shadow: 10px 8px 15px black;
+
+  }
+  
+  .contents{
+    margin: 2vh 1vh;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  body{
+    background-color: rgb(44, 39, 39);
+  }
+
+  #himg{
+    height: 30vh;
+    width:88%;
+    background-image: url(htl.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+  }
+  #lodg{
+    height: 30vh;
+    width:88%;
+    background-image: url(ldg.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+  }
+  #barr{
+    height: 30vh;
+    width:88%;
+    background-image: url(br.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+  }
+
+  #location{
+    background-image: url(location.png);
+    height: 20vh;
+    width: 30vh;
+margin-top: 4vh;
+margin-bottom: 14vh;
+font-size: 9vw;
+align-items: center;
+display: flex;
+justify-content: center;
+border-radius: 20px;
+box-shadow: 10px 6px 17px black;
+margin-left: 10vw;
+background-position: center;
+}
+
+#location a{
+  font-weight: 700;
+  color: black;
+  text-decoration: none;
+}
+
+#last{
+  height: 35vh;
+  background-color: black;
+  color: aliceblue;
+  margin-top: 4vh;
+}
+
+#last p{
+font-size: 5vw;
+padding: 4vw;
+}
